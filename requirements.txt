@@ -1,0 +1,10 @@
+melee-env
+melee
+pyenet
+py-ubjson
+packaging
+numpy
+requests
+requests-toolbelt
+tqdm
+
